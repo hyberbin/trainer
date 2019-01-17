@@ -14,4 +14,4 @@
 * 查看我的作业
 * 查看作业完成情况
 
-[课程作业](/hyberbin/trainer/blob/master/doc/pic/0c4d838bfed318b209f60d04019f0e9.jpg?raw=true)
+![image](/hyberbin/trainer/blob/master/doc/pic/0c4d838bfed318b209f60d04019f0e9.jpg?raw=true)
